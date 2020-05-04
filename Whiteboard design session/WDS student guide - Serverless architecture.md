@@ -1,8 +1,4 @@
-# Serverless architecture - Whiteboard design session student guide
-
-<div class="MCWHeader1">
-Serverless architecture
-# Whiteboard design session student guide
+# Serverless architecture - Whiteboard design session guide
 
 <div class="MCWHeader2">
 May 2020
