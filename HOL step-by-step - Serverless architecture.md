@@ -383,7 +383,7 @@ In this exercise, you will provision a blob storage account using the Hot tier, 
 
     c. For pricing tier, select **S1 (10 Calls per second)**.
 
-    d. Specify the Resource Group **ServerlessArchitecture**.
+    d. Specify the Resource Group **<Team assigned resource group>**.
 
     ![In the Create Computer Vision blade, fields are set to the previously defined values.](media/create-computer-vision.png 'Create blade')
 
@@ -391,7 +391,7 @@ In this exercise, you will provision a blob storage account using the Hot tier, 
 
     ![Screenshot of the Create button.](media/image13.png 'Create button')
 
-6. After the Computer Vision API has completed provisioning, open the service by opening the **ServerlessArchitecture** resource group, and then selecting the **Computer Vision** **API** service name.
+6. After the Computer Vision API has completed provisioning, open the service by opening the **<Team assigned resource group>** resource group, and then selecting the **Computer Vision** **API** service name.
 
 7. Under Resource Management in the left-hand menu, select **Keys and Endpoint**.
 
@@ -417,7 +417,7 @@ Azure Key Vault is used to securely store all secrets, such as database connecti
 
     a. **Subscription**: Select your Azure subscription used for this lab.
 
-    b. **Resource group**: Select **ServerlessArchitecture**.
+    b. **Resource group**: Select **<Team assigned resource group>**.
 
     c. **Key vault name**: Unique value for the name such as **TollBoothVaultINIT** (ensure the green check mark appears).
 
